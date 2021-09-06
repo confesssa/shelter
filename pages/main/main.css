@@ -340,7 +340,6 @@
 
 .help-item {
   text-align: center;
-  display: flex;
   flex-direction: column;
   justify-content: flex-end;
   margin: 0 60px 54px;
@@ -400,7 +399,6 @@ margin-top: 30px;
 }
 
 .card:hover {
-  cursor: pointer;
   background-color: #FDDCC4;
 }
 
