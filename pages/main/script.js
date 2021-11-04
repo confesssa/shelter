@@ -100,11 +100,11 @@ let contentPopUp = document.querySelector('.pop-up-content-wrap');
 
 
 // Events
-katrine.addEventListener('click', showPopUp);
-jennifer.addEventListener('click', showPopUp);
-woody.addEventListener('click', showPopUp);
-closeBtn.addEventListener('click', closePopUp);
-overlay.addEventListener('click', closePopUp);
+// katrine.addEventListener('click', showPopUp);
+// jennifer.addEventListener('click', showPopUp);
+// woody.addEventListener('click', showPopUp);
+// closeBtn.addEventListener('click', closePopUp);
+// overlay.addEventListener('click', closePopUp);
 
 // Pop Up
 function showPopUp() {
